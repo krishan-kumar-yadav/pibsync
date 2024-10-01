@@ -4,8 +4,4 @@ test rsync add
 add
 new commit
 new file added
-kk
-ss
-kk
-ss
-dd
+test
